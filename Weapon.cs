@@ -5,11 +5,11 @@ namespace Oops.Game
 {
 	public class Weapon
 	{
-		protected Weapon(int damage, int ammo, int durability)
+		protected Weapon(int damage, int ammo, int durability) 
 		{
 			Damage = damage;
 			Ammo = ammo;
-			Durability = durability;
+			Durability = durability; 
 		}
 		public int Damage;
 		public int Ammo;
