@@ -4,16 +4,10 @@ namespace Oops.Game
 {
 	static public class Main
 	{
-		Main()
-		{
-			
-		}
+		Main() {}
+		
 		public Main()
-		{
-		
-			Console.WriteLine("Welcome to the Game");
-		}
-		
+		{ Console.WriteLine("Welcome to the Game"); }
 	}
 }
 
