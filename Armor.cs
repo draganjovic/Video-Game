@@ -8,7 +8,6 @@ namespace Oops.Game
 		Chain,
 		Pants,
 		Ring,
-
 	}
 
 	public class Armor
@@ -35,11 +34,7 @@ namespace Oops.Game
 		{
 			get { return new Armor(ArmorType.Pants, 100, 100); }
 		}
-			
 	}
-
-
-
 }
 
 
