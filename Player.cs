@@ -9,11 +9,8 @@ namespace Oops.Game
 
 		Player()
 		{
-
 			Weapon = new WoodenSword ();
 		}
-
 	}
 }
 
-// Things we need for a game: Player/stats, Badguys, map/levels, items, Gold, input
